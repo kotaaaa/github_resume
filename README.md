@@ -3,7 +3,6 @@
 ## 基本情報
 
 |key|value|
-|---|-----|
 |Name|川口輝太 (Kota Kawaguchi)|
 |Qiita|[Qiita](https://qiita.com/kotaaaa)|
 |Twitter|[@kotaaaa1110](https://twitter.com/kotaaaa1110)|
@@ -62,6 +61,7 @@
 ## 学習中
 - Kubernetes
 - アルゴリズム，データ構造（atcoder）
+- 基本情報 / 応用情報
 
 ## 職務経歴
 
@@ -95,6 +95,7 @@ Web Application Engineer として，家電ECサイトの保守運営，また�
 
 ## 課外活動
 - atcoder(週末参加)
+  - [Link](https://atcoder.jp/users/kotakota1110)
 
 ### 発表資料
 * [Vue, Angular 比較資料](https://docs.google.com/presentation/d/1h_P7dhnW3S0hDDh1SePlVg5xgqcNsKFr04HTVTySlzo/edit?usp=sharing)
