@@ -3,6 +3,7 @@
 ## 基本情報
 
 |key|value|
+|---|-----|
 |Name|川口輝太 (Kota Kawaguchi)|
 |Qiita|[Qiita](https://qiita.com/kotaaaa)|
 |Twitter|[@kotaaaa1110](https://twitter.com/kotaaaa1110)|
