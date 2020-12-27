@@ -65,6 +65,8 @@
 
 ### 受賞歴
 * [令和元年(2019年)度 独立行政法人 日本学生支援機構 「特に優れた業績による返還免除(半額免除)」](https://www.jasso.go.jp/shogakukin/taiyochu/gyosekimenjyo/index.html)
+- ![image](https://user-images.githubusercontent.com/25422441/103165140-4a401380-4857-11eb-907d-457b28af81c6.png)
+
 
 ### 執筆歴
 * [Qiita](https://qiita.com/kotaaaa)
