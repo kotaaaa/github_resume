@@ -59,10 +59,17 @@
 <!-- ## やったことはないが興味があるもの -->
 <!-- Kubernetes -->
 
+## 資格
+- 基本情報技術者試験
+
+## 研究業績
+- https://kk1110.xsrv.jp/kk_index.html
+
 ## 学習中
 - Kubernetes
 - アルゴリズム，データ構造（atcoder）
-- 基本情報 / 応用情報
+  - atcoder (Brown)
+- 応用情報技術者試験
 
 ## 職務経歴
 
@@ -98,7 +105,7 @@ Web Application Engineer として，家電ECサイトの保守運営，また�
 - atcoder(週末参加)
   - [Link](https://atcoder.jp/users/kotakota1110)
 
-### 発表資料
+### 発表資料(社内)
 * [Vue, Angular 比較資料](https://docs.google.com/presentation/d/1h_P7dhnW3S0hDDh1SePlVg5xgqcNsKFr04HTVTySlzo/edit?usp=sharing)
 
 ### 受賞歴
