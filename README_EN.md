@@ -24,7 +24,7 @@ I want to be in an environment where I can use my development experience to gain
 - Front-end to back-end engineering skills and 1 year Development / Operation experience
 - Ability to take ownership and drive the project as a team.
 - Ability to communicate smoothly with stakeholders inside and outside the team, regardless of nationality or language, and to work towards goals
-- Specialized skills in data analysis and natural language processing
+- Specialized skills in data analysis and natural language processing / Analytical skills for understanding user behavior
 
 ## **Work Experiance**
 
