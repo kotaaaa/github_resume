@@ -103,7 +103,7 @@ Web Application Engineer として，家電ECサイトの保守運営，また�
 <!-- * [副業で携わっているサービス](そのサービスのランディングページのリンクとか) -->
 
 ## **インターンシップ**
-### 2018/07 - 2019/06 : Yahoo Japan Corporation
+### 2018/07 - 2019/06 : Zホールディングス株式会社
 #### Department: **Yahoo! JAPAN R&D**
 - ユーザーのリアルデータを用いたニュースサイト閲覧者のユーザー行動分析
   - 研究業績: https://www.jstage.jst.go.jp/article/pjsai/JSAI2019/0/JSAI2019_3Rin236/_article/-char/ja

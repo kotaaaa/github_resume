@@ -61,7 +61,7 @@ As a Web Application Engineer, I am engaged in the maintenance and operation of 
 - Pause and resume batch / Change the production server to maintenance mode.
 
 ## **Internship**
-### 2018/07 - 2019/06 : Yahoo Japan Corporation
+### 2018/07 - 2019/06 : Z Holdings Corporation
 #### Department: **Yahoo! JAPAN R&D**
 - Analysis of user behavior of news site viewers using user's real data
   - Research Achevement: https://www.jstage.jst.go.jp/article/pjsai/JSAI2019/0/JSAI2019_3Rin236/_article/-char/ja
