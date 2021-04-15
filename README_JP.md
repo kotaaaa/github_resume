@@ -4,11 +4,12 @@
 
 |key|value|
 |---|-----|
-|Name|川口輝太 (Kota Kawaguchi)|
-|Qiita|[Qiita](https://qiita.com/kotaaaa)|
-|Twitter|[@kotaaaa1110](https://twitter.com/kotaaaa1110)|
-|Github|[@kotaaaa](https://github.com/kotaaaa)|
-|Research publication|[Link](https://kk1110.xsrv.jp/kk_index.html)|
+|**Name**|川口輝太 (Kota Kawaguchi)|
+|**Qiita**|[Qiita](https://qiita.com/kotaaaa)|
+|**Twitter**|[@kotaaaa1110](https://twitter.com/kotaaaa1110)|
+|**Github**|[@kotaaaa](https://github.com/kotaaaa)|
+|**Research publication**|[Link](https://kk1110.xsrv.jp/kk_index.html)|
+|**Email**|kota.k.1132.pda@gmail.com|
 
 ## スキル
 ### 言語
@@ -100,6 +101,18 @@ Web Application Engineer として，家電ECサイトの保守運営，また�
 <!-- ### 社外プロジェクト -->
 <!-- * [運営に携わっているコミュニティ](そのコミュニティのconnpassやカンファレンスページのリンクとか) -->
 <!-- * [副業で携わっているサービス](そのサービスのランディングページのリンクとか) -->
+
+## **インターンシップ**
+### 2018/07 - 2019/06 : Yahoo Japan Corporation
+#### Department: **Yahoo! JAPAN R&D**
+- ユーザーのリアルデータを用いたニュースサイト閲覧者のユーザー行動分析
+  - 研究業績: https://www.jstage.jst.go.jp/article/pjsai/JSAI2019/0/JSAI2019_3Rin236/_article/-char/ja
+- 社内のTwitterデータを利用したユーザー属性推定タスク
+- 使用技術: python, hql (hive)
+
+## **学歴**
+- University of Tsukuba (Master of Engineering)
+- University of Tsukuba (Bachelor of Engineering)
 
 ## 課外活動
 - atcoder(週末参加)

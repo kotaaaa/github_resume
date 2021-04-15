@@ -4,12 +4,12 @@
 ※ Last Update: 2021/04/15
 |key|value|
 |---|-----|
-|Name|Kota Kawaguchi (川口輝太)|
-|Qiita|[Qiita](https://qiita.com/kotaaaa)|
-|Twitter|[@kotaaaa1110](https://twitter.com/kotaaaa1110)|
-|Github|[@kotaaaa](https://github.com/kotaaaa)|
-|Research publication|[Link](https://kk1110.xsrv.jp/kk_index.html)|
-|Email|kota.k.1132.pda@gmail.com|
+|**Name**|Kota Kawaguchi (川口輝太)|
+|**Qiita**|[Qiita](https://qiita.com/kotaaaa)|
+|**Twitter**|[@kotaaaa1110](https://twitter.com/kotaaaa1110)|
+|**Github**|[@kotaaaa](https://github.com/kotaaaa)|
+|**Research publication**|[Link](https://kk1110.xsrv.jp/kk_index.html)|
+|**Email**|kota.k.1132.pda@gmail.com|
 
 ## **Objective**
 I want to be in an environment where I can use my development experience to gain more challenging and global development experience.
@@ -45,7 +45,7 @@ As a Web Application Engineer, I am engaged in the maintenance and operation of 
 - Integration Test / Production release work
 
 #### Modification of the backend of the cash register screen and payment processing part(2020/10 - 2020/11)
-- Development (API) and unit testing (Springboot)
+- Development (API), fixed model parameter and unit testing (Springboot)
 - Internal testing, external integration testing
 - Production release work
 
@@ -74,7 +74,7 @@ As a Web Application Engineer, I am engaged in the maintenance and operation of 
 - **Python** (3 Years)
   -  Mainly used for research in natural language processing and web mining
 - **Java** (1 Years)
-   - Used in the backend of a consumer electronics EC site and in the backend of an in-house tool 
+   - Used in the backend of a Home appliances EC site and in the backend of an in-house tool 
 - **Typescript** (2 Month)
   - Used in the front-end of internal system(2 Month)
 - **Perl** (6 Month)
@@ -82,9 +82,9 @@ As a Web Application Engineer, I am engaged in the maintenance and operation of 
 
 ### Framework
 - **Spring Boot** (6 month)
-  - Used in the backend of a consumer electronics EC site and in the backend of an in-house tool (8 months)
+  - Used in the backend of a Home appliances EC site and in the backend of an in-house tool (8 months)
 - **JUnit**
-  - Used as a unit testing framework for a consumer electronics e-commerce site
+  - Used as a unit testing framework for a Home appliances e-commerce site
 - **Angular** (3 month)
   - Used in the backend of an internal tool (3 months)
 - **Flask**
@@ -93,6 +93,10 @@ As a Web Application Engineer, I am engaged in the maintenance and operation of 
   - Used as a machine learning library during research on natural language processing (2 years)
 - **Keras**
   - Used as a deep learning library in research on natural language processing (1 year)
+
+## **Education**
+- University of Tsukuba (Master of Engineering)
+- University of Tsukuba (Bachelor of Engineering)
 
 ### **Others**
 
