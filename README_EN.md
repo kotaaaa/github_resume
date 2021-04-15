@@ -91,7 +91,7 @@ As a Web Application Engineer, I am engaged in the maintenance and operation of 
   - Used for personal Linebot app creation 
 - **sklearn** (2 years)
   - Used as a machine learning library during research on natural language processing 
-- **Keras** 
+- **Keras** (1 years)
   - Used as a deep learning library in research on natural language processing 
 
 ## **Education**
