@@ -76,23 +76,23 @@ As a Web Application Engineer, I am engaged in the maintenance and operation of 
 - **Java** (1 Years)
    - Used in the backend of a Home appliances EC site and in the backend of an in-house tool 
 - **Typescript** (2 Month)
-  - Used in the front-end of internal system(2 Month)
+  - Used in the front-end of internal system
 - **Perl** (6 Month)
   - Used for text processing during research in natural language processing and web mining.
 
 ### Framework
-- **Spring Boot** (6 month)
+- **Spring Boot** (1 Years)
   - Used in the backend of a Home appliances EC site and in the backend of an in-house tool (8 months)
-- **JUnit**
+- **JUnit** (1 Years)
   - Used as a unit testing framework for a Home appliances e-commerce site
 - **Angular** (3 month)
-  - Used in the backend of an internal tool (3 months)
-- **Flask**
-  - Used for personal Linebot app creation (1 month)
-- **sklearn**
-  - Used as a machine learning library during research on natural language processing (2 years)
-- **Keras**
-  - Used as a deep learning library in research on natural language processing (1 year)
+  - Used in the backend of an internal tool 
+- **Flask** (1 month)
+  - Used for personal Linebot app creation 
+- **sklearn** (2 years)
+  - Used as a machine learning library during research on natural language processing 
+- **Keras** 
+  - Used as a deep learning library in research on natural language processing 
 
 ## **Education**
 - University of Tsukuba (Master of Engineering)
