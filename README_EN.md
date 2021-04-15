@@ -1,6 +1,6 @@
-# Resume
+# **Resume**
 
-## Basic Information
+## **Basic Information**
 
 |key|value|
 |---|-----|
@@ -10,28 +10,28 @@
 |Github|[@kotaaaa](https://github.com/kotaaaa)|
 |Research publication|[Link](https://kk1110.xsrv.jp/kk_index.html)|
 
-## Objective
+## **Objective**
 I want to be in an environment where I can use my development experience to gain more challenging and global development experience.
 
-## Summary
+## **Summary**
 - 1 years of Internal user's real data analysis work and presentation at academic conference (Internship Program)
 - Knowledge and technical skills in natural language processing and web mining through 3 years of research activities
 - 1 year of Experience of API and Batch development using abstract classes in the area of home appliances EC sites. Also, experience in system operations and maintenace work.
 
-## Strengths
+## **Strengths**
 - Front-end to back-end engineering skills and 1 year Development / Operation experience
 - Ability to take ownership and drive the project as a team.
 - Ability to communicate smoothly with stakeholders inside and outside the team, regardless of nationality or language, and to work towards goals
 - Specialized skills in data analysis and natural language processing
 
-## Work Experiance
+## **Work Experiance**
 
-### 2020/04 - Current : Rakuten Group, Inc
+### 2020/04 - Current : **Rakuten Group, Inc**
 
 Job Description: Application Engineer
 As a Web Application Engineer, I am engaged in the maintenance and operation of a consumer electronics e-commerce site, as well as development projects associated with the development of the service.
 
-### Development Project
+### **Development Project**
 #### Modification of the back-end part of the internal system(2020/05 - 2020/06)
 - Development environment construction(Docker)
 - New API design / Development (Thymeleaf, Springboot)
@@ -52,22 +52,22 @@ As a Web Application Engineer, I am engaged in the maintenance and operation of 
 - Development Abstract class for Batch development and Batch development (Spring batch, Template method pattern)
 - Production release work 
 
-### Operation Task
+### **Operation Task**
 #### Load test for large sale (Rakuten Super Sale)
 - Work to monitor system operation status by applying high QPS load to the system.
 #### Regular Maintenance task
 - Pause and resume batch / Change the production server to maintenance mode.
 
 
-## SKills
+## **Skills**
 ### Programming language
-- Python (3 Years)
+- **Python** (3 Years)
   -  Mainly used for research in natural language processing and web mining
-- Java (1 Years)
+- **Java** (1 Years)
    - Used in the backend of a consumer electronics EC site and in the backend of an in-house tool 
-- Typescript 
+- **Typescript** (2 Month)
   - Used in the front-end of internal system(2 Month)
-- Perl
+- **Perl** (6 Month)
   - Used for text processing during research in natural language processing and web mining.
 
 ### Framework
@@ -84,10 +84,10 @@ As a Web Application Engineer, I am engaged in the maintenance and operation of 
 - Keras
   - Used as a deep learning library in research on natural language processing (1 year)
 
-## Internship
+## **Internship**
 ### 2018/07 - 2019/06 : Yahoo Japan Corporation
 
-### Others
+### **Others**
 
 #### Editor etc
 - Intellij
@@ -128,9 +128,8 @@ As a Web Application Engineer, I am engaged in the maintenance and operation of 
 * [Vue, Angular 比較資料](https://docs.google.com/presentation/d/1h_P7dhnW3S0hDDh1SePlVg5xgqcNsKFr04HTVTySlzo/edit?usp=sharing)
 
 ### Awards / Scholarships
-* [令和元年(2019年)度 独立行政法人 日本学生支援機構 「特に優れた業績による返還免除(半額免除)」](https://www.jasso.go.jp/shogakukin/taiyochu/gyosekimenjyo/index.html)
+* [Repayment Exemption for Students with Excellent Grades -FY2020-, Japan Student Services Organization (JASSO) Type I (interest-free) scholarship (Half price Exemption of Scholarships](https://www.jasso.go.jp/shogakukin/taiyochu/gyosekimenjyo/index.html)
 ![image](https://user-images.githubusercontent.com/25422441/103165140-4a401380-4857-11eb-907d-457b28af81c6.png)
 
-
-### 執筆歴
+### Blogs
 * [Qiita](https://qiita.com/kotaaaa)
