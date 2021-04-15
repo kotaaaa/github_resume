@@ -1,22 +1,24 @@
 # **Resume**
 
 ## **Basic Information**
-
+** ※ Last Update: 2021/04/15
 |key|value|
 |---|-----|
-|Name|川口輝太 (Kota Kawaguchi)|
+|Name|Kota Kawaguchi (川口輝太)|
 |Qiita|[Qiita](https://qiita.com/kotaaaa)|
 |Twitter|[@kotaaaa1110](https://twitter.com/kotaaaa1110)|
 |Github|[@kotaaaa](https://github.com/kotaaaa)|
 |Research publication|[Link](https://kk1110.xsrv.jp/kk_index.html)|
+|Email|kota.k.1132.pda@gmail.com|
 
 ## **Objective**
 I want to be in an environment where I can use my development experience to gain more challenging and global development experience.
 
 ## **Summary**
+- Software Engineer with 1 years of experience in Java / Typescript
 - 1 years of Internal user's real data analysis work and presentation at academic conference (Internship Program)
-- Knowledge and technical skills in natural language processing and web mining through 3 years of research activities
-- 1 year of Experience of API and Batch development using abstract classes in the area of home appliances EC sites. Also, experience in system operations and maintenace work.
+- Research achievements in natural language processing and web mining through 3 years
+
 
 ## **Strengths**
 - Front-end to back-end engineering skills and 1 year Development / Operation experience
@@ -53,7 +55,7 @@ As a Web Application Engineer, I am engaged in the maintenance and operation of 
 - Production release work 
 
 ### **Operation Task**
-#### Load test for large sale (Rakuten Super Sale)
+#### Load test for large sale (For Rakuten Super Sale)
 - Work to monitor system operation status by applying high QPS load to the system.
 #### Regular Maintenance task
 - Pause and resume batch / Change the production server to maintenance mode.
@@ -71,21 +73,24 @@ As a Web Application Engineer, I am engaged in the maintenance and operation of 
   - Used for text processing during research in natural language processing and web mining.
 
 ### Framework
-- Spring Boot (6 month)
+- **Spring Boot** (6 month)
   - Used in the backend of a consumer electronics EC site and in the backend of an in-house tool (8 months)
-- JUnit
+- **JUnit**
   - Used as a unit testing framework for a consumer electronics e-commerce site
-- Angular (3 month)
+- **Angular** (3 month)
   - Used in the backend of an internal tool (3 months)
-- Flask
+- **Flask**
   - Used for personal Linebot app creation (1 month)
-- sklearn
+- **sklearn**
   - Used as a machine learning library during research on natural language processing (2 years)
-- Keras
+- **Keras**
   - Used as a deep learning library in research on natural language processing (1 year)
 
 ## **Internship**
 ### 2018/07 - 2019/06 : Yahoo Japan Corporation
+- Analysis of user behavior of news site viewers using user's real data
+  - Research Achevement: https://www.jstage.jst.go.jp/article/pjsai/JSAI2019/0/JSAI2019_3Rin236/_article/-char/ja
+- User attribute estimation task using in-house Twitter data
 
 ### **Others**
 
