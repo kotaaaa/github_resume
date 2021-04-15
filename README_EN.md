@@ -1,7 +1,7 @@
 # **Resume**
 
 ## **Basic Information**
-** ※ Last Update: 2021/04/15
+※ Last Update: 2021/04/15
 |key|value|
 |---|-----|
 |Name|Kota Kawaguchi (川口輝太)|
@@ -46,7 +46,7 @@ As a Web Application Engineer, I am engaged in the maintenance and operation of 
 
 #### Modification of the backend of the cash register screen and payment processing part(2020/10 - 2020/11)
 - Development (API) and unit testing (Springboot)
-- Internal testing, external integration testing (joint testing with other companies)
+- Internal testing, external integration testing
 - Production release work
 
 #### Abstract Batch Class and csv file import batch Development (2020/12 - 2020/03)
@@ -59,6 +59,14 @@ As a Web Application Engineer, I am engaged in the maintenance and operation of 
 - Work to monitor system operation status by applying high QPS load to the system.
 #### Regular Maintenance task
 - Pause and resume batch / Change the production server to maintenance mode.
+
+## **Internship**
+### 2018/07 - 2019/06 : Yahoo Japan Corporation
+#### Department: **Yahoo! JAPAN R&D**
+- Analysis of user behavior of news site viewers using user's real data
+  - Research Achevement: https://www.jstage.jst.go.jp/article/pjsai/JSAI2019/0/JSAI2019_3Rin236/_article/-char/ja
+- User attribute estimation task using in-house Twitter data
+- Technology: python, hql (hive)
 
 
 ## **Skills**
@@ -85,12 +93,6 @@ As a Web Application Engineer, I am engaged in the maintenance and operation of 
   - Used as a machine learning library during research on natural language processing (2 years)
 - **Keras**
   - Used as a deep learning library in research on natural language processing (1 year)
-
-## **Internship**
-### 2018/07 - 2019/06 : Yahoo Japan Corporation
-- Analysis of user behavior of news site viewers using user's real data
-  - Research Achevement: https://www.jstage.jst.go.jp/article/pjsai/JSAI2019/0/JSAI2019_3Rin236/_article/-char/ja
-- User attribute estimation task using in-house Twitter data
 
 ### **Others**
 
