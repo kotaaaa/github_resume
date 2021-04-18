@@ -26,7 +26,7 @@ I want to be in an environment where I can use my development experience to gain
 - Ability to communicate smoothly with stakeholders inside and outside the team, regardless of nationality or language, and to work towards goals
 - Specialized skills in data analysis and natural language processing / Analytical skills for understanding user behavior
 
-## **Work Experiance**
+## **Work Experience**
 
 ### 2020/04 - Current : **Rakuten Group, Inc**
 
@@ -95,8 +95,8 @@ As a Web Application Engineer, I am engaged in the maintenance and operation of 
   - Used as a deep learning library in research on natural language processing 
 
 ## **Education**
-- University of Tsukuba (Master of Engineering)
-- University of Tsukuba (Bachelor of Engineering)
+- University of Tsukuba (Master of Engineering) March, 2018
+- University of Tsukuba (Bachelor of Engineering) March, 2020
 
 ### **Others**
 
