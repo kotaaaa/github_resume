@@ -67,17 +67,17 @@ As a Web Application Engineer, I am engaged in the maintenance and operation of 
 
 ### **Operation Task**
 - Preparation and execution of load tests.
- - Conducted load tests for the Rakuten Super Sale, the largest shopping event held every quarter.
- - Monitored the operation status by applying high QPS load.
+  - Conducted load tests for the Rakuten Super Sale, the largest shopping event held every quarter.
+  - Monitored the operation status by applying high QPS load.
 - Periodic maintenance work
- - Paused and restarted batches, shifted production servers to maintenance mode, etc.
+  - Paused and restarted batches, shifted production servers to maintenance mode, etc.
 - EOL support for internal APIs, upgrade work
 - Improvement and deployment of existing bugs.
 
 ### Others
 - In-house department hackathon second place: (2nd/9th)
- - Tech Stack: Vue.js
- - Title: Improve UI/UX on RFashion Search Page
+  - Tech Stack: Vue.js
+  - Title: Improve UI/UX on RFashion Search Page
 
 
 ## **Internship**
