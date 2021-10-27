@@ -114,13 +114,6 @@ As a Web Application Engineer, I am engaged in the maintenance and operation of 
 - University of Tsukuba (Master of Engineering) March, 2020
 - University of Tsukuba (Bachelor of Engineering) March, 2018
 
-### **Others**
-
-#### Editor etc
-- Intellij
-- VScode
-- Emacs
-
 ## Natural Language
 - Japanese
   - Native
