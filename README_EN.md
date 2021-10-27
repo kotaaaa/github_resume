@@ -1,7 +1,7 @@
 # **Resume**
 
 ## **Basic Information**
-※ Last Update: 2021/04/15
+※ Last Update: 2021/10/27
 |key|value|
 |---|-----|
 |**Name**|Kota Kawaguchi (川口輝太)|
@@ -12,10 +12,11 @@
 |**Email**|kota.k.1132.pda@gmail.com|
 
 ## **Objective**
-I want to be in an environment where I can use my development experience to gain more challenging and global development experience.
+During master deploma, I was engaged in research on natural language processing and data mining. My achievements during studies, including external presentations at peer-reviewed international conferences, have been recognized, and I was selected for a half-tuition scholarship(JASSO).
+Currently, as a web application engineer, I am in charge of the backend, frontend, and system operation of a consumer electronics EC service.
 
 ## **Summary**
-- Software Engineer with 1 years of experience in Java / Typescript
+- Software Engineer with 1 years and 6 month of experience in Java / Javascript
 - 1 years of Internal user's real data analysis work and presentation at academic conference (Internship Program)
 - Research achievements in natural language processing and web mining through 3 years
 
@@ -47,18 +48,37 @@ As a Web Application Engineer, I am engaged in the maintenance and operation of 
 #### Modification of the backend of the cash register screen and payment processing part(2020/10 - 2020/11)
 - Development (API), fixed model parameter and unit testing (Springboot)
 - Internal testing, external integration testing
-- Production release work
+- Phases: development and unit testing, internal testing, external coupling testing (joint testing with other companies), production release
 
 #### Abstract Batch Class and csv file import batch Development (2020/12 - 2020/03)
 - Impact survey, basic design, detail design
 - Development Abstract class for Batch development and Batch development (Spring batch, Template method pattern)
-- Production release work 
+- Phases: design, development and unit testing, internal testing, external coupling testing (joint testing with other companies), production release
+
+##### Modification of product data linkage file import batch (2021/04 - 2021/06)
+- Modification of the logic of the product data collaboration file import batch
+- Phases: design, development and unit testing, internal testing, external coupling testing (joint testing with other companies), production release
+
+##### Addition of double price display logic in the product detail page (2021/07 - 2021/08)
+- Modification of the product detail page, backend development of the internal API call part
+- Phases: Design, development and unit testing, internal testing, external coupling testing (joint testing with other companies), production release
+
+
 
 ### **Operation Task**
-#### Load test for large sale (For Rakuten Super Sale)
-- Work to monitor system operation status by applying high QPS load to the system.
-#### Regular Maintenance task
-- Pause and resume batch / Change the production server to maintenance mode.
+- Preparation and execution of load tests.
+ - Conducted load tests for the Rakuten Super Sale, the largest shopping event held every quarter.
+ - Monitored the operation status by applying high QPS load.
+- Periodic maintenance work
+ - Paused and restarted batches, shifted production servers to maintenance mode, etc.
+- EOL support for internal APIs, upgrade work
+- Improvement and deployment of existing bugs.
+
+### Others
+- In-house department hackathon second place: (2nd/9th)
+ - Tech Stack: Vue.js
+ - Title: Improve UI/UX on RFashion Search Page
+
 
 ## **Internship**
 ### 2018/07 - 2019/06 : Z Holdings Corporation
