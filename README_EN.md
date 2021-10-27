@@ -91,28 +91,24 @@ As a Web Application Engineer, I am engaged in the maintenance and operation of 
 
 ## **Skills**
 ### Programming language
-- **Python** (3 Years)
-  -  Mainly used for research in natural language processing and web mining
-- **Java** (1 Years)
-   - Used in the backend of a Home appliances EC site and in the backend of an in-house tool 
-- **Typescript** (2 Month)
-  - Used in the front-end of internal system
-- **Perl** (6 Month)
-  - Used for text processing during research in natural language processing and web mining.
+- **Python** (3 Years): Mainly used for research in natural language processing and web mining
+- **Java** (1 Years): Used in the backend of a Home appliances EC site and in the backend of an in-house tool 
+- **Typescript** (2 Month): Used in the front-end of internal system
+- **Perl** (6 Month): Used for text processing during research in natural language processing and web mining.
 
 ### Framework
-- **Spring Boot** (1 Years)
-  - Used in the backend of a Home appliances EC site and in the backend of an in-house tool (8 months)
-- **JUnit** (1 Years)
-  - Used as a unit testing framework for a Home appliances e-commerce site
-- **Angular** (3 month)
-  - Used in the backend of an internal tool 
-- **Flask** (1 month)
-  - Used for personal Linebot app creation 
-- **sklearn** (2 years)
-  - Used as a machine learning library during research on natural language processing 
-- **Keras** (1 years)
-  - Used as a deep learning library in research on natural language processing 
+- **Spring Boot** (1 Years): Used in the backend of a Home appliances EC site and in the backend of an in-house tool
+- **JUnit** (1 Years): Used as a unit testing framework for a Home appliances e-commerce site
+- **Angular** (3 Month): Used in the backend of an internal tool 
+- **Flask** (1 Month): Used for personal Linebot app creation 
+- **sklearn** (2 years): Used as a machine learning library during research on natural language processing 
+- **Keras** (1 years): Used as a deep learning library in research on natural language processing 
+
+### Middleware/DB etc.
+- **Kubernetes** (1 Years): Each web application and API are operated on kubernetes.
+- **Nginx** (6 Month): Change web server settings, etc.
+- **Chef** (2 Month): Manage server settings of Nginx, etc.
+- **Oracle** (1.5 Years): internal DB table
 
 ## **Education**
 - University of Tsukuba (Master of Engineering) March, 2020
@@ -139,12 +135,6 @@ As a Web Application Engineer, I am engaged in the maintenance and operation of 
 - Summarized at my Research Home Page
   - https://kk1110.xsrv.jp/kk_index.html
 
-## Studying Now
-- Kubernetes
-- Algorithm, data structure（atcoder）
-  - atcoder (Brown)
-- Applied Information Technology Engineer Examination（応用情報技術者試験）
-
 <!-- ## 課外活動 -->
 
 <!-- ### 社外プロジェクト -->
@@ -152,7 +142,7 @@ As a Web Application Engineer, I am engaged in the maintenance and operation of 
 <!-- * [副業で携わっているサービス](そのサービスのランディングページのリンクとか) -->
 
 ## Other Activity
-- atcoder(Attend on Weekend)
+- atcoder(Green)
   - [Link](https://atcoder.jp/users/kotakota1110)
 
 ### Presentation material (in-house)

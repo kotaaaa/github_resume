@@ -110,7 +110,7 @@ Web Application Engineer として，家電ECサイトの保守運用，また�
 - 社内APIのEOL対応，バージョンアップ作業
 - 既存バグの改善，デプロイ
 
-#####　その他
+##### その他
 - 社内部署ハッカソン 準優勝: (2位/9位)
  - Tech Stack: Vue.js
  - Title: Improve UI/UX on RFashion Search Page
@@ -122,7 +122,7 @@ Web Application Engineer として，家電ECサイトの保守運用，また�
 
 ## **インターンシップ**
 ### 2018/07 - 2019/06 : Zホールディングス株式会社
-#### Department: **Yahoo! JAPAN R&D**
+#### 部署: **Yahoo! JAPAN R&D**
 - ユーザーのリアルデータを用いたニュースサイト閲覧者のユーザー行動分析
   - 研究業績: https://www.jstage.jst.go.jp/article/pjsai/JSAI2019/0/JSAI2019_3Rin236/_article/-char/ja
 - 社内のTwitterデータを利用したユーザー属性推定タスク
