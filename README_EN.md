@@ -1,7 +1,7 @@
 # **Resume**
 
 ## **Basic Information**
-※ Last Update: 2021/10/27
+※ Last Update: 2021/10/30
 |key|value|
 |---|-----|
 |**Name**|Kota Kawaguchi (川口輝太)|
