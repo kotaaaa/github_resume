@@ -119,7 +119,9 @@ As a Web Application Engineer, I am engaged in the maintenance and operation of 
   - Native
 - English
   - Business English
-  - TOEIC: 885 
+  - TOEIC: 885 (Oct 2017)
+  - TOEFL iBT: 71 (May 2017)
+  - IELTS: 5.5 (Jun 2015)
 
 ## Qualifications
 - Fundamental Information Technology Engineer Examination（基本情報技術者試験）
