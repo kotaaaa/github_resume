@@ -12,17 +12,18 @@
 |**Email**|kota.k.1132.pda@gmail.com|
 
 ## **Objective**
-During master deploma, I was engaged in research on natural language processing and data mining. My achievements during studies, including external presentations at peer-reviewed international conferences, have been recognized, and I was selected for a half-tuition scholarship(JASSO).
-Currently, as a web application engineer, I am in charge of the backend, frontend, and system operation of a consumer electronics EC service.
+As a web application engineer, I am mainly involved in the back-end development of consumer electronics EC services, but also in the front-end and infrastructure areas. He is also well versed in operational tasks such as load testing in preparation for a sale.
+In graduate school, I was engaged in research on data mining using natural language processing. I was selected as a JASSO scholarship recipient for exemption from repayment for his achievements during his studies, including external presentations at peer-reviewed international conferences.
+Currently, I would like to get an oppotunity to work as a backend engineer to work on new product development.
 
 ## **Summary**
-- Software Engineer with 1 years and 6 month of experience in Java / Javascript
+- Software Engineer with 1 years and 8 month of experience in Java / Javascript
 - 1 years of Internal user's real data analysis work and presentation at academic conference (Internship Program)
 - Research achievements in natural language processing and web mining through 3 years
 
 
 ## **Strengths**
-- Front-end to back-end engineering skills and 1 year Development / Operation experience
+- Front-end to back-end engineering skills and 1 years and 8 month Development / Operation experience
 - Ability to take ownership and drive the project as a team.
 - Ability to communicate smoothly with stakeholders inside and outside the team, regardless of nationality or language, and to work towards goals
 - Specialized skills in data analysis and natural language processing / Analytical skills for understanding user behavior
@@ -137,11 +138,14 @@ As a Web Application Engineer, I am engaged in the maintenance and operation of 
 <!-- * [副業で携わっているサービス](そのサービスのランディングページのリンクとか) -->
 
 ## Other Activity
-- atcoder(Green)
+- Atcoder(Green)
   - [Link](https://atcoder.jp/users/kotakota1110)
+- Hackday in Department. Second prize: (2位/9位)
+  - Tech Stack: Vue.js
+  - Title: Improve UI/UX on RFashion Search Page
 
 ### Presentation material (in-house)
-* [Vue, Angular 比較資料](https://docs.google.com/presentation/d/1h_P7dhnW3S0hDDh1SePlVg5xgqcNsKFr04HTVTySlzo/edit?usp=sharing)
+* [Vue, Angular Introduction Document](https://docs.google.com/presentation/d/1h_P7dhnW3S0hDDh1SePlVg5xgqcNsKFr04HTVTySlzo/edit?usp=sharing)
 
 ### Awards / Scholarships
 * [Repayment Exemption for Students with Excellent Grades -FY2020-, Japan Student Services Organization (JASSO) Type I (interest-free) scholarship (Half price Exemption of Scholarships](https://www.jasso.go.jp/shogakukin/taiyochu/gyosekimenjyo/index.html)
