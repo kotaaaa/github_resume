@@ -1,7 +1,7 @@
 # 職務経歴書
 
 ## 基本情報
-※ Last Update: 2021/10/30
+※ Last Update: 2021/11/22
 |key|value|
 |---|-----|
 |**Name**|川口輝太 (Kota Kawaguchi)|

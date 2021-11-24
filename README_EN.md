@@ -1,7 +1,7 @@
 # **Resume**
 
 ## **Basic Information**
-※ Last Update: 2021/10/30
+※ Last Update: 2021/11/22
 |key|value|
 |---|-----|
 |**Name**|Kota Kawaguchi (川口輝太)|
@@ -12,9 +12,9 @@
 |**Email**|kota.k.1132.pda@gmail.com|
 
 ## **Objective**
-As a web application engineer, I am mainly involved in the back-end development of consumer electronics EC services, but also in the front-end and infrastructure areas. He is also well versed in operational tasks such as load testing in preparation for a sale.
-In graduate school, I was engaged in research on data mining using natural language processing. I was selected as a JASSO scholarship recipient for exemption from repayment for his achievements during his studies, including external presentations at peer-reviewed international conferences.
-Currently, I would like to get an oppotunity to work as a backend engineer to work on new product development.
+As a web application engineer, I am mainly involved in the back-end development of consumer electronics EC services, but also in the front-end and infrastructure areas. I am also well versed in operational tasks such as load testing in preparation for a sale.
+In graduate school, I was engaged in research on data mining using natural language processing. I was selected as a JASSO scholarship recipient for exemption from repayment for my achievements during my studies, including external presentations at peer-reviewed international conferences.
+Currently, I would like to get an opportunity to work as a backend engineer to work on new product development.
 
 ## **Summary**
 - Software Engineer with 1 years and 8 month of experience in Java / Javascript
@@ -74,6 +74,7 @@ As a Web Application Engineer, I am engaged in the maintenance and operation of 
   - Paused and restarted batches, shifted production servers to maintenance mode, etc.
 - EOL support for internal APIs, upgrade work
 - Improvement and deployment of existing bugs.
+- Did operation of NFS settings, ACL serttings and FTP file linkage setting.
 
 ### Others
 - In-house department hackathon second place: (2nd/9th)
@@ -140,8 +141,8 @@ As a Web Application Engineer, I am engaged in the maintenance and operation of 
 ## Other Activity
 - Atcoder(Green)
   - [Link](https://atcoder.jp/users/kotakota1110)
-- Hackday in Department. Second prize: (2位/9位)
-  - Tech Stack: Vue.js
+- Hackday in Department. Second prize: (2nd/9 teams)
+  - Tech Stack: Vue.js (SPA)
   - Title: Improve UI/UX on RFashion Search Page
 
 ### Presentation material (in-house)
