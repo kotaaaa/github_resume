@@ -1,7 +1,7 @@
 # **Resume**
 
 ## **Basic Information**
-※ Last Update: 2021/11/22
+※ Last Update: 2021/11/27
 |key|value|
 |---|-----|
 |**Name**|Kota Kawaguchi (川口輝太)|
@@ -36,7 +36,7 @@ Job Description: Application Engineer
 As a Web Application Engineer, I am engaged in the maintenance and operation of a consumer electronics e-commerce site, as well as development projects associated with the development of the service.
 
 ### **Development Project**
-#### Modification of the back-end part of the internal system(2020/05 - 2020/06)
+#### New Web Application development of the Internal API management system(2020/05 - 2020/06)
 - Development environment construction(Docker)
 - New API design / Development (Thymeleaf, Springboot)
 - Implementation and unit testing (Junit)
@@ -51,7 +51,7 @@ As a Web Application Engineer, I am engaged in the maintenance and operation of 
 - Internal testing, external integration testing
 - Phases: development and unit testing, internal testing, external coupling testing (joint testing with other companies), production release
 
-#### Abstract Batch Class and csv file import batch Development (2020/12 - 2020/03)
+#### Development of new abstract Batch class and csv file import batch (2020/12 - 2020/03)
 - Impact survey, basic design, detail design
 - Development Abstract class for Batch development and Batch development (Spring batch, Template method pattern)
 - Phases: design, development and unit testing, internal testing, external coupling testing (joint testing with other companies), production release
@@ -59,11 +59,15 @@ As a Web Application Engineer, I am engaged in the maintenance and operation of 
 ##### Modification of product data linkage file import batch (2021/04 - 2021/06)
 - Modification of the logic of the product data collaboration file import batch
 - Phases: design, development and unit testing, internal testing, external coupling testing (joint testing with other companies), production release
+- Communicated with Biccamera team members to achieve common goal.
 
 ##### Addition of double price display logic in the product detail page (2021/07 - 2021/08)
 - Modification of the product detail page, backend development of the internal API call part
 - Phases: Design, development and unit testing, internal testing, external coupling testing (joint testing with other companies), production release
 
+##### Creation of new web application and fix web Nginx server's parameters for timesale events (2021/07 - 2021/08)
+- To achieve system's sustainability even in the hign load at timesale, created new application for load balancing.
+- Nginx, Chef, Shell, NFS setting, Vue.js, k8s
 
 
 ### **Operation Task**
