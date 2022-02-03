@@ -1,7 +1,7 @@
 # 職務経歴書
 
 ## 基本情報
-※ Last Update: 2021/11/22
+※ Last Update: 2022/02/03
 |key|value|
 |---|-----|
 |**Name**|川口輝太 (Kota Kawaguchi)|
@@ -19,21 +19,22 @@ Webアプリケーションエンジニアとして家電ECサービスのバッ
 ## スキル
 ### 言語
 - Python: 自然言語処理，Webマイニングの研究のため主に使用(3年)
-- Java: 家電ECサイトのバックエンド，社内ツールのバックエンドで使用(1年6ヶ月)
-- Javascript: 家電ECサイトのフロントエンド，社内ツールのフロントエンドで使用(6ヶ月)
-- Perl: 自然言語処理，Webマイニングの研究時，テキスト処理のため使用(3ヶ月)
+- Java: 家電ECサイトのバックエンド，社内ツールのバックエンドで使用(2年)
+- Javascript: 家電ECサイトのフロントエンドで使用(1年8ヶ月)
+- Typescript: 社内ツールのフロントエンドで使用(3ヶ月)
+- Perl: 自然言語処理，Webマイニングの研究時，テキスト処理のため使用(6ヶ月)
 - Shell: Cron処理を記述するために使用(3ヶ月)
 
 ### フレームワーク
-- Spring Boot: 家電ECサイトのバックエンド，社内ツールのバックエンドで使用(1年3ヶ月)
-- Vue.js: 家電ECサイトのフロントエンド(1年3ヶ月)
+- Spring Boot: 家電ECサイトのバックエンド，社内ツールのバックエンドで使用(1年11ヶ月)
+- Nuxt.js,Vue.js: 家電ECサイトのフロントエンド(1年8ヶ月)
 - Angular: 社内ツールのバックエンドで使用 (3ヶ月)
 - Flask: 個人Linebot アプリ制作時に使用 (1ヶ月)
-- sklearn: 自然言語処理の研究時，機械学習ライブラリとして使用 (2年)
+- scikit-learn: 自然言語処理の研究時，機械学習ライブラリとして使用 (2年)
 - Keras: 自然言語処理の研究時，深層学習ライブラリとして使用 (1年)
 
 ### ミドルウェア/DB等
-- Kubernetes: 各Web ApplicationやAPIがkubernetes上で運用
+- Kubernetes: 各Web ApplicationやAPIをkubernetes上で運用した。
 - Nginx: Webサーバーの設定変更など
 - Chef: Nginxなどのサーバー設定管理など
 - Oracle: 社内DBテーブル
@@ -50,14 +51,14 @@ Webアプリケーションエンジニアとして家電ECサービスのバッ
   - IELTS: 5.5 (2015/06)
 
 ## 強み
-- フロントエンドからバックエンドのエンジニアリングスキル
 - オーナーシップを持ち，チームとしてプロジェクトを推進していくことができる．
 - 国籍や言語を問わず，チーム内外のステークホルダーと円滑にコミュニケーションを取り，チームの目標に向かって邁進する力
 - データ解析，自然言語処理の専門スキル
 - Web上実データのユーザー行動の分析経験
 
 ## 資格
-- 基本情報技術者試験(2021/03取得)
+- 基本情報技術者試験 2021/03
+- 応用情報技術者試験 2021/12
 
 ## 研究業績
 - https://kk1110.xsrv.jp/kk_index.html
@@ -95,27 +96,27 @@ Web Application Engineer として，家電ECサイトの保守運用，また�
 - 商品詳細画面の修正，社内API呼び出し部分のバックエンド開発
 - 担当フェーズ: 設計，開発・単体テスト, 内部テスト，外部結合テスト(他社との共同テスト作業)，本番リリース
 
-##### Timesale商品用システムの設計，対象商品連携シェルの追加(2021/09 - 現在)
+##### Timesale商品用システムの設計，対象商品連携シェルの追加(2021/09 - 2022/01)
+- Nginx Reload のShellの実装/本番デプロイ用パイプラインの作成(Jenkins)
+- 商品ページの修正とk8s新規Appのyamlファイル作成
+- 負荷試験の設計、また負荷試験の実施
 
 
-##### 運用業務
+#### 運用業務(通年)
 - ロードテストの準備と実行。
   - 四半期ごとに開催される最大のショッピングイベントである楽天スーパーセールの負荷テストを実施。
   - QPSの高い負荷をかけて稼働状況を監視した。
 - 定期メンテナンス作業
   - バッチの一時停止や再開、本番サーバのメンテナンスモードへの移行など。
 - 社内APIのEOL対応，バージョンアップ作業
-- 既存バグの改善，デプロイ
+- 既存バグの改善，本番デプロイ
+- 本番障害対応
 
-##### その他
+#### その他
 - 社内部署ハッカソン 準優勝: (2位/9位)
   - Tech Stack: Vue.js
   - Title: Improve UI/UX on RFashion Search Page
 
-
-<!-- ### 社外プロジェクト -->
-<!-- * [運営に携わっているコミュニティ](そのコミュニティのconnpassやカンファレンスページのリンクとか) -->
-<!-- * [副業で携わっているサービス](そのサービスのランディングページのリンクとか) -->
 
 ## **インターンシップ**
 ### 2018/07 - 2019/06 : Zホールディングス株式会社
@@ -134,7 +135,9 @@ Web Application Engineer として，家電ECサイトの保守運用，また�
   - [Link](https://atcoder.jp/users/kotakota1110)
 
 ### 発表資料(社内)
-* [Vue, Angular 比較資料](https://docs.google.com/presentation/d/1h_P7dhnW3S0hDDh1SePlVg5xgqcNsKFr04HTVTySlzo/edit?usp=sharing)
+* [Vue.js and Angular Comparison](https://docs.google.com/presentation/d/1h_P7dhnW3S0hDDh1SePlVg5xgqcNsKFr04HTVTySlzo/edit?usp=sharing)
+* [Template Design with Java](https://docs.google.com/presentation/d/15R4Mw0pLo-towAo4pgqAzWp5BFoDNc7lPfxiy-tmD6c/edit?usp=sharing)
+* [Nginx Basic](https://docs.google.com/presentation/d/1-I-v7pCzbTYCO33C_oP2Vug88iforBZAXDYVxoqaxO8/edit?usp=sharing)
 
 ### 受賞歴
 * [令和元年(2019年)度 独立行政法人 日本学生支援機構 「特に優れた業績による返還免除(半額免除)」](https://www.jasso.go.jp/shogakukin/taiyochu/gyosekimenjyo/index.html)

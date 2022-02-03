@@ -1,7 +1,7 @@
 # **Resume**
 
 ## **Basic Information**
-※ Last Update: 2021/11/27
+※ Last Update: 2022/02/03
 |key|value|
 |---|-----|
 |**Name**|Kota Kawaguchi (川口輝太)|
@@ -17,13 +17,12 @@ In graduate school, I was engaged in research on data mining using natural langu
 Currently, I would like to get an opportunity to work as a backend engineer to work on new product development.
 
 ## **Summary**
-- Software Engineer with 1 years and 8 month of experience in Java / Javascript
+- Software Engineer with 1 years and 11 month of E-Commerce service.
 - 1 years of Internal user's real data analysis work and presentation at academic conference (Internship Program)
 - Research achievements in natural language processing and web mining through 3 years
 
 
 ## **Strengths**
-- Front-end to back-end engineering skills and 1 years and 8 month Development / Operation experience
 - Ability to take ownership and drive the project as a team.
 - Ability to communicate smoothly with stakeholders inside and outside the team, regardless of nationality or language, and to work towards goals
 - Specialized skills in data analysis and natural language processing / Analytical skills for understanding user behavior
@@ -35,23 +34,23 @@ Currently, I would like to get an opportunity to work as a backend engineer to w
 Job Description: Application Engineer
 As a Web Application Engineer, I am engaged in the maintenance and operation of a consumer electronics e-commerce site, as well as development projects associated with the development of the service.
 
-### **Development Project**
-#### New Web Application development of the Internal API management system(2020/05 - 2020/06)
+#### **Development Project**
+##### New Web Application development of the Internal API management system(2020/05 - 2020/06)
 - Development environment construction(Docker)
 - New API design / Development (Thymeleaf, Springboot)
 - Implementation and unit testing (Junit)
 
-#### Modification of the front-end part of the internal system(2020/07 - 2020/09)
+##### Modification of the front-end part of the internal system(2020/07 - 2020/09)
 - Screen Design
 - Implementation and unit testing (Angular9)
 - Integration Test / Production release work
 
-#### Modification of the backend of the cash register screen and payment processing part(2020/10 - 2020/11)
+##### Modification of the backend of the cash register screen and payment processing part(2020/10 - 2020/11)
 - Development (API), fixed model parameter and unit testing (Springboot)
 - Internal testing, external integration testing
 - Phases: development and unit testing, internal testing, external coupling testing (joint testing with other companies), production release
 
-#### Development of new abstract Batch class and csv file import batch (2020/12 - 2020/03)
+##### Development of new abstract Batch class and csv file import batch (2020/12 - 2020/03)
 - Impact survey, basic design, detail design
 - Development Abstract class for Batch development and Batch development (Spring batch, Template method pattern)
 - Phases: design, development and unit testing, internal testing, external coupling testing (joint testing with other companies), production release
@@ -67,10 +66,13 @@ As a Web Application Engineer, I am engaged in the maintenance and operation of 
 
 ##### Creation of new web application and fix web Nginx server's parameters for timesale events (2021/07 - 2021/08)
 - To achieve system's sustainability even in the hign load at timesale, created new application for load balancing.
-- Nginx, Chef, Shell, NFS setting, Vue.js, k8s
+  - Implement Nginx reload Shell / Prepare Jenkins pipeline for Production deploy
+  - Parameter settings of Chef
+  - NFS setting
+  - New Web application Design, implementation to handle request to sale item.(k8s, Nuxt.js)
 
 
-### **Operation Task**
+#### **Operation Task(Annual)**
 - Preparation and execution of load tests.
   - Conducted load tests for the Rakuten Super Sale, the largest shopping event held every quarter.
   - Monitored the operation status by applying high QPS load.
@@ -79,8 +81,9 @@ As a Web Application Engineer, I am engaged in the maintenance and operation of 
 - EOL support for internal APIs, upgrade work
 - Improvement and deployment of existing bugs.
 - Did operation of NFS settings, ACL serttings and FTP file linkage setting.
+- Production trouble shooting 
 
-### Others
+#### Others
 - In-house department hackathon second place: (2nd/9th)
   - Tech Stack: Vue.js
   - Title: Improve UI/UX on RFashion Search Page
@@ -97,24 +100,26 @@ As a Web Application Engineer, I am engaged in the maintenance and operation of 
 
 ## **Skills**
 ### Programming language
-- **Python** (3 Years): Mainly used for research in natural language processing and web mining
-- **Java** (1 Years): Used in the backend of a Home appliances EC site and in the backend of an in-house tool 
-- **Typescript** (2 Month): Used in the front-end of internal system
-- **Perl** (6 Month): Used for text processing during research in natural language processing and web mining.
+- **Python** (3y): Mainly used for research in natural language processing and web mining
+- **Java** (2y): Used in the backend of a Home appliances EC site and in the backend of an in-house tool 
+- **Javascript** (1y8m): Used in front-end of a Home appliances EC site
+- **Typescript** (3m): Used in the front-end of internal system
+- **Perl** (6m): Used for text processing during research in natural language processing and web mining.
+- **Shell** (3m): Write Cron process to update Nginx setting.
 
 ### Framework
-- **Spring Boot** (1 Years): Used in the backend of a Home appliances EC site and in the backend of an in-house tool
-- **JUnit** (1 Years): Used as a unit testing framework for a Home appliances e-commerce site
-- **Angular** (3 Month): Used in the backend of an internal tool 
-- **Flask** (1 Month): Used for personal Linebot app creation 
-- **sklearn** (2 years): Used as a machine learning library during research on natural language processing 
-- **Keras** (1 years): Used as a deep learning library in research on natural language processing 
+- **Spring Boot** (1y11m): Used in the backend of a Home appliances EC site and in the backend of an in-house tool
+- **Nuxt.js,Vue.js** (1y8m): Frontend of Home appliances EC site
+- **Angular** (3m): Used in the backend of an internal tool 
+- **Flask** (1m): Used for personal Linebot app creation 
+- **scikit-learn** (2y): Used as a machine learning library during research on natural language processing 
+- **Keras** (1y): Used as a deep learning library in research on natural language processing 
 
 ### Middleware/DB etc.
-- **Kubernetes** (1 Years): Each web application and API are operated on kubernetes.
-- **Nginx** (6 Month): Change web server settings, etc.
-- **Chef** (2 Month): Manage server settings of Nginx, etc.
-- **Oracle** (1.5 Years): internal DB table
+- **Kubernetes** (1y11m): Each web application and API are operated on kubernetes.
+- **Nginx** (1y): Change web server settings, etc.
+- **Chef** (1y): Manage server settings of Nginx, etc.
+- **Oracle** (1y11m): internal DB table
 
 ## **Education**
 - University of Tsukuba (Master of Engineering) March, 2020
@@ -130,27 +135,24 @@ As a Web Application Engineer, I am engaged in the maintenance and operation of 
   - IELTS: 5.5 (Jun 2015)
 
 ## Qualifications
-- Fundamental Information Technology Engineer Examination（基本情報技術者試験）
+- Fundamental Information Technology Engineer Examination（基本情報技術者試験）2021/03
+- Applied Information Technology Engineer Examination（応用情報技術者試験）2021/12
 
 ## Research Publication
 - Summarized at my Research Home Page
   - https://kk1110.xsrv.jp/kk_index.html
 
-<!-- ## 課外活動 -->
-
-<!-- ### 社外プロジェクト -->
-<!-- * [運営に携わっているコミュニティ](そのコミュニティのconnpassやカンファレンスページのリンクとか) -->
-<!-- * [副業で携わっているサービス](そのサービスのランディングページのリンクとか) -->
-
 ## Other Activity
 - Atcoder(Green)
   - [Link](https://atcoder.jp/users/kotakota1110)
-- Hackday in Department. Second prize: (2nd/9 teams)
+- Hackday in Department. Second prize: (2nd Prize/9 teams)
   - Tech Stack: Vue.js (SPA)
   - Title: Improve UI/UX on RFashion Search Page
 
 ### Presentation material (in-house)
-* [Vue, Angular Introduction Document](https://docs.google.com/presentation/d/1h_P7dhnW3S0hDDh1SePlVg5xgqcNsKFr04HTVTySlzo/edit?usp=sharing)
+* [Vue.js and Angular Comparison](https://docs.google.com/presentation/d/1h_P7dhnW3S0hDDh1SePlVg5xgqcNsKFr04HTVTySlzo/edit?usp=sharing)
+* [Template Design with Java](https://docs.google.com/presentation/d/15R4Mw0pLo-towAo4pgqAzWp5BFoDNc7lPfxiy-tmD6c/edit?usp=sharing)
+* [Nginx Basic](https://docs.google.com/presentation/d/1-I-v7pCzbTYCO33C_oP2Vug88iforBZAXDYVxoqaxO8/edit?usp=sharing)
 
 ### Awards / Scholarships
 * [Repayment Exemption for Students with Excellent Grades -FY2020-, Japan Student Services Organization (JASSO) Type I (interest-free) scholarship (Half price Exemption of Scholarships](https://www.jasso.go.jp/shogakukin/taiyochu/gyosekimenjyo/index.html)
