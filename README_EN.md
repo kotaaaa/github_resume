@@ -2,7 +2,7 @@
 
 ## **Basic Information**
 
-※ Last Update: 2022/02/03
+※ Last Update: 2022/04/16
 |key|value|
 |---|-----|
 |**Name**|Kota Kawaguchi (川口輝太)|
@@ -20,7 +20,7 @@ Currently, I would like to get an opportunity to work as a backend engineer to w
 
 ## **Summary**
 
-- Software Engineer with 1 years and 11 month of E-Commerce service.
+- Software Engineer with 2 years of E-Commerce service.
 - 1 years of Internal user's real data analysis work and presentation at academic conference (Internship Program)
 - Research achievements in natural language processing and web mining through 3 years
 
@@ -32,9 +32,15 @@ Currently, I would like to get an opportunity to work as a backend engineer to w
 
 ## **Work Experience**
 
-### 2020/04 - Current : **Rakuten Group, Inc**
+### 2022/02 - Current : Enigmo Inc. Freelance
 
-Job Description: Application Engineer
+Job Title: Software Engineer
+Engaged in the development and operation of the new store data transfer system.
+Tech: Airflow(Cloud Composer), GCP, Terraform, BigQuery, Looker
+
+### 2020/04 - 2022/02 : **Rakuten Group, Inc**
+
+Job Title: Application Engineer
 As a Web Application Engineer, I am engaged in the maintenance and operation of a consumer electronics e-commerce site, as well as development projects associated with the development of the service.
 
 #### **Development Project**
@@ -63,7 +69,7 @@ As a Web Application Engineer, I am engaged in the maintenance and operation of 
 - Development Abstract class for Batch development and Batch development (Spring batch, Template method pattern)
 - Phases: design, development and unit testing, internal testing, external coupling testing (joint testing with other companies), production release
 
-##### Modification of product data linkage file import batch (2021/04 - 2021/06)
+##### Modification of product data trasfer batch (2021/04 - 2021/06)
 
 - Modification of the logic of the product data collaboration file import batch
 - Phases: design, development and unit testing, internal testing, external coupling testing (joint testing with other companies), production release
@@ -91,7 +97,7 @@ As a Web Application Engineer, I am engaged in the maintenance and operation of 
   - Paused and restarted batches, shifted production servers to maintenance mode, etc.
 - EOL support for internal APIs, upgrade work
 - Improvement and deployment of existing bugs.
-- Did operation of NFS settings, ACL serttings and FTP file linkage setting.
+- Did operation of NFS settings, ACL serttings and FTP file transfer setting.
 - Production trouble shooting
 
 #### Others

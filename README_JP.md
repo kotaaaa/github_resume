@@ -2,7 +2,7 @@
 
 ## 基本情報
 
-※ Last Update: 2022/02/03
+※ Last Update: 2022/04/16
 |key|value|
 |---|-----|
 |**Name**|川口輝太 (Kota Kawaguchi)|
@@ -74,7 +74,13 @@ Web アプリケーションエンジニアとして家電 EC サービスのバ
 
 ## 職務経歴
 
-### 2020/04 - 現在 : 楽天株式会社
+### 2022/02 - 現在 : 株式会社エニグモ フリーランス
+
+職務: Software Engineer
+新ショップ連携システムの開発と運用に従事している。
+Tech: Airflow(Cloud Composer), GCP, Terraform, BigQuery, Looker
+
+### 2020/04 - 2022/02 : 楽天株式会社
 
 職務: Application Engineer
 Web Application Engineer として，家電 EC サイトの保守運用，またサービスの発展していくための開発プロジェクトに従事している．
