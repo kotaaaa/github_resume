@@ -74,6 +74,7 @@ Development and operation of the new boutique's data transfer system.
 - Set up GCP components with Terraform.
 - Upgraded Airflow and Cloud Composer Version up to 2.x from 1.x
 - Installed CI/CD pipeline with Cloud Build
+- GCP Project migration to build scalable system
   Tech: Airflow(Cloud Composer), GCP, Terraform, BigQuery, Looker
 
 Tech: Airflow(Cloud Composer), GCP, Terraform, BigQuery, Looker

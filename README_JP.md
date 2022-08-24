@@ -88,6 +88,7 @@ Web アプリケーションエンジニアとして家電 EC サービスのバ
 - GCP コンポーネントを Terraform でセットアップ。
 - Airflow と Cloud Composer のバージョンを 1.x から 2.x にアップグレード。
 - Cloud Build で CI/CD パイプラインを導入。
+- スケーラブルなシステムにするための GCP のプロジェクト移行
   Tech: Airflow(Cloud Composer), GCP, Terraform, BigQuery, Looker
 
 ### 2020/04 - 2022/02 : 楽天株式会社
