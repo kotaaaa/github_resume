@@ -2,7 +2,7 @@
 
 ## **Basic Information**
 
-※ Last Update: 2022/04/16
+※ Last Update: 2022/08/24
 |key|value|
 |---|-----|
 |**Name**|Kota Kawaguchi (川口輝太)|
@@ -20,8 +20,8 @@ Currently, I would like to get an opportunity to work as a backend engineer to w
 
 ## **Summary**
 
-- Software Engineer with 2 years of E-Commerce service.
-- 1 years of Internal user's real data analysis work and presentation at academic conference (Internship Program)
+- Software Developer with 2.5 year's experience in E-Commerce industry.
+- 1 years of research internship in Data mining at Japanese Largest portal site company(Yahoo! Japan)
 - Research achievements in natural language processing and web mining through 3 years
 
 ## **Strengths**
@@ -30,12 +30,53 @@ Currently, I would like to get an opportunity to work as a backend engineer to w
 - Ability to communicate smoothly with stakeholders inside and outside the team, regardless of nationality or language, and to work towards goals
 - Specialized skills in data analysis and natural language processing / Analytical skills for understanding user behavior
 
+## **Skills**
+
+### Programming language
+
+- **Python** (3.5y): Developed DAG with Aitflow, and Used for research in natural language processing
+- **Java** (2y): Used in the backend of a Home appliances EC site and in the backend of an in-house tool
+- **Javascript** (2y): Used in front-end of a Home appliances EC site
+- **Typescript** (3m): Used in the front-end of internal system
+- **Perl** (6m): Used for text processing during research in natural language processing and web mining.
+- **Shell** (3m): Write Cron process to update Nginx setting.
+
+### Framework
+
+- **Apache Airflow** (6m): Used as workflow management system managed. Developed 5 dags to trasfer data from external API to internal DB.
+- **Spring Boot** (2y): Used in the backend of a Home appliances EC site and in the backend of an in-house tool
+- **Nuxt.js,Vue.js** (2y): Frontend of Home appliances EC site
+- **Angular** (3m): Used in the backend of an internal tool
+- **Flask** (1m): Used for personal Linebot app creation
+- **Google App Script** (3m): Transfer order data with external API
+- **scikit-learn** (2y): Used as a machine learning library during research on natural language processing
+- **Keras** (1y): Used as a deep learning library in research on natural language processing
+
+### Middleware/DB etc.
+
+- **Kubernetes** (2.5y): Each web application and API are operated on kubernetes.
+- **Nginx** (1y): Change web server settings, etc.
+- **Terraform** (2.5y): Set up GCP components with terraform.
+- **Chef** (1y): Manage server settings of Nginx, etc.
+- **Oracle** (2y): Used as internal DB table.
+
 ## **Work Experience**
 
 ### 2022/02 - Current : Enigmo Inc. Freelance
 
-Job Title: Software Engineer
-Engaged in the development and operation of the new store data transfer system.
+Job Title: Data Integration Engineer
+
+Development and operation of the new boutique's data transfer system.
+
+- Developed workflow to transfer item and order data with boutique's API with Apache Airflow.
+- Created BI dashboard to check data transfer status with BigQuery and Looker
+- Set up GCP components with Terraform.
+- Upgraded Airflow and Cloud Composer Version up to 2.x from 1.x
+- Installed CI/CD pipeline with Cloud Build
+  Tech: Airflow(Cloud Composer), GCP, Terraform, BigQuery, Looker
+
+##### New Web Application development of the Internal API management system(2020/05 - 2020/06)
+
 Tech: Airflow(Cloud Composer), GCP, Terraform, BigQuery, Looker
 
 ### 2020/04 - 2022/02 : **Rakuten Group, Inc**
@@ -117,33 +158,6 @@ As a Web Application Engineer, I am engaged in the maintenance and operation of 
 - User attribute estimation task using in-house Twitter data
 - Technology: python, hql (hive)
 
-## **Skills**
-
-### Programming language
-
-- **Python** (3y): Mainly used for research in natural language processing and web mining
-- **Java** (2y): Used in the backend of a Home appliances EC site and in the backend of an in-house tool
-- **Javascript** (1y8m): Used in front-end of a Home appliances EC site
-- **Typescript** (3m): Used in the front-end of internal system
-- **Perl** (6m): Used for text processing during research in natural language processing and web mining.
-- **Shell** (3m): Write Cron process to update Nginx setting.
-
-### Framework
-
-- **Spring Boot** (1y11m): Used in the backend of a Home appliances EC site and in the backend of an in-house tool
-- **Nuxt.js,Vue.js** (1y8m): Frontend of Home appliances EC site
-- **Angular** (3m): Used in the backend of an internal tool
-- **Flask** (1m): Used for personal Linebot app creation
-- **scikit-learn** (2y): Used as a machine learning library during research on natural language processing
-- **Keras** (1y): Used as a deep learning library in research on natural language processing
-
-### Middleware/DB etc.
-
-- **Kubernetes** (1y11m): Each web application and API are operated on kubernetes.
-- **Nginx** (1y): Change web server settings, etc.
-- **Chef** (1y): Manage server settings of Nginx, etc.
-- **Oracle** (1y11m): internal DB table
-
 ## **Education**
 
 - University of Tsukuba (Master of Engineering) March, 2020
@@ -161,6 +175,7 @@ As a Web Application Engineer, I am engaged in the maintenance and operation of 
 
 ## Qualifications
 
+- [Google Cloud Associate Cloud Engineer](https://www.credential.net/f0e91b5b-37a6-4257-b6cb-d983a8458e65?key=4bdeaa38e98b672109444214a4665b1a3d32836eceaefe2c1eb0969d8129a188) 2022/07
 - Fundamental Information Technology Engineer Examination（基本情報技術者試験）2021/03
 - Applied Information Technology Engineer Examination（応用情報技術者試験）2021/12
 
