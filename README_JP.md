@@ -22,7 +22,7 @@ Web アプリケーションエンジニアとして家電 EC サービスのバ
 
 ### 言語
 
-- Python: Airflow の DAG の開発、自然言語処理、Web マイニングの研究のため主に使用(3 年 5 ヶ月)
+- Python: Apache Airflow の DAG の開発、自然言語処理、Web マイニングの研究のため主に使用(3 年 5 ヶ月)
 - Java: 家電 EC サイトのバックエンド、社内ツールのバックエンドで使用(2 年)
 - Javascript: 家電 EC サイトのフロントエンドで使用(2 年)
 - Typescript: 社内ツールのフロントエンドで使用(3 ヶ月)
@@ -81,8 +81,14 @@ Web アプリケーションエンジニアとして家電 EC サービスのバ
 ### 2022/02 - 現在 : 株式会社エニグモ フリーランス
 
 職務: Data Integration Engineer
-新ショップ連携システムの開発と運用に従事している。
-Tech: Airflow(Cloud Composer), GCP, Terraform, BigQuery, Looker
+ショップ API 連携システムの開発と運用に従事している。
+
+- ブティックの API から商品・受注データを転送するワークフローを Apache Airflow で開発。
+- BigQuery と Looker でデータ転送状況を確認する BI ダッシュボードを作成。
+- GCP コンポーネントを Terraform でセットアップ。
+- Airflow と Cloud Composer のバージョンを 1.x から 2.x にアップグレード。
+- Cloud Build で CI/CD パイプラインを導入。
+  Tech: Airflow(Cloud Composer), GCP, Terraform, BigQuery, Looker
 
 ### 2020/04 - 2022/02 : 楽天株式会社
 

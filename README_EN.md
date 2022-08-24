@@ -34,7 +34,7 @@ Currently, I would like to get an opportunity to work as a backend engineer to w
 
 ### Programming language
 
-- **Python** (3.5y): Developed DAG with Aitflow, and Used for research in natural language processing
+- **Python** (3.5y): Developed DAG with Airflow, and Used for research in natural language processing
 - **Java** (2y): Used in the backend of a Home appliances EC site and in the backend of an in-house tool
 - **Javascript** (2y): Used in front-end of a Home appliances EC site
 - **Typescript** (3m): Used in the front-end of internal system
@@ -52,8 +52,9 @@ Currently, I would like to get an opportunity to work as a backend engineer to w
 - **scikit-learn** (2y): Used as a machine learning library during research on natural language processing
 - **Keras** (1y): Used as a deep learning library in research on natural language processing
 
-### Middleware/DB etc.
+### Middleware/DB/Cloud etc.
 
+- **GCP** (6m): Developed Cloud Composer, and used BigQuery, Cloud Build, Cloud VPN, GCS, Looker, IAM management
 - **Kubernetes** (2.5y): Each web application and API are operated on kubernetes.
 - **Nginx** (1y): Change web server settings, etc.
 - **Terraform** (2.5y): Set up GCP components with terraform.
@@ -74,8 +75,6 @@ Development and operation of the new boutique's data transfer system.
 - Upgraded Airflow and Cloud Composer Version up to 2.x from 1.x
 - Installed CI/CD pipeline with Cloud Build
   Tech: Airflow(Cloud Composer), GCP, Terraform, BigQuery, Looker
-
-##### New Web Application development of the Internal API management system(2020/05 - 2020/06)
 
 Tech: Airflow(Cloud Composer), GCP, Terraform, BigQuery, Looker
 
