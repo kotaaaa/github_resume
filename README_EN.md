@@ -6,7 +6,7 @@
 |key|value|
 |---|-----|
 |**Name**|Kota Kawaguchi (川口輝太)|
-|**Qiita**|[Qiita](https://qiita.com/kotaaaa)|
+|**Tech Blog**|[Blog](https://kotaaaa1110blogs.gatsbyjs.io/)|
 |**Twitter**|[@kotaaaa1110](https://twitter.com/kotaaaa1110)|
 |**Github**|[@kotaaaa](https://github.com/kotaaaa)|
 |**Research publication**|[Link](https://kk1110.com/rhp)|
