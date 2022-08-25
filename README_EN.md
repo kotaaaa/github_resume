@@ -39,7 +39,7 @@ Currently, I would like to get an opportunity to work as a backend engineer to w
 - **Javascript** (2y): Used in front-end of a Home appliances EC site
 - **Typescript** (3m): Used in the front-end of internal system
 - **Perl** (6m): Used for text processing during research in natural language processing and web mining.
-- **Shell** (3m): Write Cron process to update Nginx setting.
+- **Shell** (3m): Used as reverse proxy of EC site, and did parameter tuning.
 
 ### Framework
 
