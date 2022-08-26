@@ -193,12 +193,6 @@ Web Application Engineer として、家電 EC サイトの保守運用、また
 　さらに、私は博士前期課程の間、テレビドラマに関連する関心・感想のウェブマイニングに関する研究に取り組みました。ドラマ視聴者が効率よくドラマに関連する情報を収集することを支援することを目的とした、ブログ・ドラマ関連サイト等のウェブページからの情報収集・集約を行うウェブマイニング技術を提案しました。本研究においては、主に収集したドラマに関するウェブページの分析、及び、自動判定タスクの設計、モデルの実装などで貢献してきました。自然言語処理分野における汎用な事前訓練+fine-tuningの枠組みを採用したモデルの一つであるBERTをドラマに関連するか否かの判定において適応する手法を提案しました。この成果を国内会議（情報処理学会第241回自然言語処理研究会）、査読付き国際会議(The 4th International Workshop on Application of Big Data for Computational Social Science)にて、発表しました。
 　以上のように、私は自身の研究成果を残し査読付き国際会議への投稿、及び、会議での発表を行い、積極的に研究活動を行いました。 -->
 
-### 発表資料(社内)
-
-- [Vue.js and Angular Comparison](https://docs.google.com/presentation/d/1h_P7dhnW3S0hDDh1SePlVg5xgqcNsKFr04HTVTySlzo/edit?usp=sharing)
-- [Template Design with Java](https://docs.google.com/presentation/d/15R4Mw0pLo-towAo4pgqAzWp5BFoDNc7lPfxiy-tmD6c/edit?usp=sharing)
-- [Nginx Basic](https://docs.google.com/presentation/d/1-I-v7pCzbTYCO33C_oP2Vug88iforBZAXDYVxoqaxO8/edit?usp=sharing)
-
 ### 受賞歴
 
 - [令和元年(2019 年)度 独立行政法人 日本学生支援機構 「特に優れた業績による返還免除(半額免除)」](https://www.jasso.go.jp/shogakukin/taiyochu/gyosekimenjyo/index.html)

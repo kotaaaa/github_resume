@@ -192,12 +192,6 @@ As a Web Application Engineer, I am engaged in the maintenance and operation of 
   - Tech Stack: Vue.js (SPA)
   - Title: Improve UI/UX on RFashion Search Page
 
-### Presentation material (in-house)
-
-- [Vue.js and Angular Comparison](https://docs.google.com/presentation/d/1h_P7dhnW3S0hDDh1SePlVg5xgqcNsKFr04HTVTySlzo/edit?usp=sharing)
-- [Template Design with Java](https://docs.google.com/presentation/d/15R4Mw0pLo-towAo4pgqAzWp5BFoDNc7lPfxiy-tmD6c/edit?usp=sharing)
-- [Nginx Basic](https://docs.google.com/presentation/d/1-I-v7pCzbTYCO33C_oP2Vug88iforBZAXDYVxoqaxO8/edit?usp=sharing)
-
 ### Awards / Scholarships
 
 - [Repayment Exemption for Students with Excellent Grades -FY2020-, Japan Student Services Organization (JASSO) Type I (interest-free) scholarship (Half price Exemption of Scholarships](https://www.jasso.go.jp/shogakukin/taiyochu/gyosekimenjyo/index.html)
