@@ -14,9 +14,8 @@
 
 ## **Objective**
 
-As a web application engineer, I am mainly involved in the back-end development of consumer electronics EC services, but also in the front-end and infrastructure areas. I am also well versed in operational tasks such as load testing in preparation for a sale.
-In graduate school, I was engaged in research on data mining using natural language processing. I was selected as a JASSO scholarship recipient for exemption from repayment for my achievements during my studies, including external presentations at peer-reviewed international conferences.
-Currently, I would like to get an opportunity to work as a backend engineer to work on new product development.
+I am Software Developer with 2.5 year's experience in E-Commerce industry.
+I am mainly involved in the back-end development of item's inventory management and order transfer, but also in the front-end and infrastructure areas. I am also well versed in operational tasks such as load test and parameter tuning of middleware such as Nginx, Kubernetes. In graduate school, I was engaged in research on data mining using natural language processing. I was selected as a JASSO scholarship recipient for exemption from repayment for my achievements during my studies, including external presentations at peer-reviewed international conferences. Currently, I would like to get an opportunity to work as a backend engineer to work on new product development.
 
 ## **Summary**
 
