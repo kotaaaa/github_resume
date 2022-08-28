@@ -15,22 +15,9 @@
 ## **Objective**
 
 I am Software Developer with 2.5 year's experience in E-Commerce industry.
-I am mainly involved in the back-end development of item's inventory management and order transfer, but also in the front-end and infrastructure areas. I am also well versed in operational tasks such as load test and parameter tuning of middleware such as Nginx, Kubernetes. In graduate school, I was engaged in research on data mining using natural language processing. I was selected as a JASSO scholarship recipient for exemption from repayment for my achievements during my studies, including external presentations at peer-reviewed international conferences. Currently, I would like to get an opportunity to work as a backend engineer to work on new product development.
+I am mainly involved in the back-end development of item's inventory management and order transfer, but also in the front-end and infrastructure areas. I am also well versed in operational tasks such as load test and parameter tuning of middleware such as Nginx, Kubernetes. In graduate school and undergraduate project, I was engaged in research on data mining using natural language processing for 3 years. I was selected as a JASSO scholarship recipient for exemption from repayment for my achievements during my studies, including external presentations at peer-reviewed international conferences. Currently, I would like to get an opportunity to work as a backend engineer to work on new product development.
 
-## **Summary**
-
-- Software Developer with 2.5 year's experience in E-Commerce industry.
-- 1 years of research internship in Data mining at Japanese Largest portal site company(Yahoo! Japan)
-- Research achievements in natural language processing and web mining through 3 years
-
-## **Strengths**
-
-- Engineering skills and 2 years and 5 months of work experience in front-end, infrastructure, dev-ops, and cloud computing, with a focus on back-end.
-- Ability to take ownership and drive the project as a team.
-- Ability to communicate smoothly with stakeholders inside and outside the team, regardless of nationality or language, and to work towards goals
-- Specialized skills in data analysis and natural language processing / Analytical skills for understanding user behavior
-
-## **Skills**
+## **Hard Skills**
 
 ### Programming language
 
@@ -40,6 +27,13 @@ I am mainly involved in the back-end development of item's inventory management 
 - **Typescript** (3m): Used in the front-end of internal system
 - **Perl** (6m): Used for text processing during research in natural language processing and web mining.
 - **Shell** (3m): Used as reverse proxy of EC site, and did parameter tuning.
+
+## **Soft Skills**
+
+- Ability to take ownership and drive the project as a team.
+- Positivity to communicate smoothly with stakeholders inside and outside the team, regardless of nationality or language, and to work towards goals.
+- Fast input due to active study habits and familiarity with the CS foundation.
+- Exemplary discipline in meeting project deadlines.
 
 ### Framework
 
