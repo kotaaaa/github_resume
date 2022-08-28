@@ -75,8 +75,9 @@ The new products listed with the new function achieved sales of 10,000$ in 3 mon
 
 Programming Language: Python, Javascript
 Framework: Airflow(Cloud Composer)
-Tech: Kubernetes, Docker, Terraform, Google App Script
+Tech: Kubernetes, Docker, Terraform, Google App Script, Jira
 Cloud Computing: Google Cloud Platform(Cloud Composer, BigQuery, Looker, GCS, IAM, Cloud Network, Looker)
+Project Management: Agile
 
 ### 2020/04 - 2022/02 : **Rakuten Group, Inc**
 
@@ -95,8 +96,9 @@ I worked as a software engineer for consumer electronics e-commerce services for
 - Attended in-house department hackathon, then created clone of Fashion EC site with Single Page Application(SPA), and got second place(2nd/9th).
 
 Programming Language: Java, Javascript, Typescript, Python, Go
-Framework: SpringBoot, Thymeleaf, JUnit, Nuxt.js, Vue.js, Angular
+Framework: SpringBoot, Thymeleaf, JUnit, Nuxt.js, Vue.js, Angular, Jira
 Tech: Kubernetes, Docker, Jenkins, Chef, Gatling
+Project Management: Agile, Waterfall
 
 ## **Internship**
 
@@ -113,7 +115,8 @@ Conducted data exploration task using actual user log data and NLP algorithm Yah
 - Implemented a categorization model using disaster-related text data from Twitter
 - Gave presentations at conferences on research results related to user data utilization
 
-Programming Language: Python, hiveql
+Programming Language: Python, Hiveql
+Skills: Machine Learning, Naive Bayes classifier, Random Forest, Natural Language Processing, exploratory data analysis
 
 ## **Education**
 
@@ -138,16 +141,12 @@ Programming Language: Python, hiveql
 
 ## Research Publication
 
-- Summarized at my Research Home Page
-  - https://kk1110.com/rhp
+- [My Research Publication Page](https://kk1110.com/rhp)
 
 ## Other Activity
 
 - Atcoder(Green)
   - [Link](https://atcoder.jp/users/kotakota1110)
-- Hackathon in Department. Second prize: (2nd Prize/9 teams)
-  - Tech Stack: Vue.js (SPA)
-  - Title: Improve UI/UX on RFashion Search Page
 
 ### Awards / Scholarships
 
