@@ -145,8 +145,7 @@ Skills: Machine Learning, Naive Bayes classifier, Random Forest, Natural Languag
 
 ## Other Activity
 
-- Atcoder(Green)
-  - [Link](https://atcoder.jp/users/kotakota1110)
+- [Atcoder(Green)](https://atcoder.jp/users/kotakota1110)
 
 ### Awards / Scholarships
 
