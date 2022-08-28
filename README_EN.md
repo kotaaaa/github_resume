@@ -6,7 +6,7 @@
 |key|value|
 |---|-----|
 |**Name**|Kota Kawaguchi (川口輝太)|
-|**Tech Blog**|[Blog](https://kotaaaa1110blogs.gatsbyjs.io/)|
+|**Tech Blog**|[Gatsby blog](https://kotaaaa1110blogs.gatsbyjs.io/)|
 |**Twitter**|[@kotaaaa1110](https://twitter.com/kotaaaa1110)|
 |**Github**|[@kotaaaa](https://github.com/kotaaaa)|
 |**Research publication**|[Link](https://kk1110.com/rhp)|
@@ -73,11 +73,25 @@ The new products listed with the new function achieved sales of 10,000$ in 3 mon
 - GCP Project migration to build scalable system.
   Tech: Airflow(Cloud Composer), GCP, Terraform, BigQuery, Looker
 
-Programming Language: Python, Javascript
-Framework: Airflow(Cloud Composer)
-Tech: Kubernetes, Docker, Terraform, Google App Script, Jira
-Cloud Computing: Google Cloud Platform(Cloud Composer, BigQuery, Looker, GCS, IAM, Cloud Network, Looker)
-Project Management: Agile
+#### Programming Language:
+
+- Python, Javascript
+
+#### Framework:
+
+- Airflow(Cloud Composer)
+
+#### Tech:
+
+- Kubernetes, Docker, Terraform, Google App Script, Jira
+
+#### Cloud Computing:
+
+- Google Cloud Platform(Cloud Composer, BigQuery, Looker, GCS, IAM, Cloud Network, Looker)
+
+#### Project Management:
+
+- Agile
 
 ### 2020/04 - 2022/02 : **Rakuten Group, Inc**
 
@@ -95,10 +109,21 @@ I worked as a software engineer for consumer electronics e-commerce services for
 - Achieved 85% code coverage rate for unit tests.
 - Attended in-house department hackathon, then created clone of Fashion EC site with Single Page Application(SPA), and got second place(2nd/9th).
 
-Programming Language: Java, Javascript, Typescript, Python, Go
-Framework: SpringBoot, Thymeleaf, JUnit, Nuxt.js, Vue.js, Angular, Jira
-Tech: Kubernetes, Docker, Jenkins, Chef, Gatling
-Project Management: Agile, Waterfall
+#### Programming Language:
+
+- Java, Javascript, Typescript, Python, Go
+
+#### Framework:
+
+- SpringBoot, Thymeleaf, JUnit, Nuxt.js, Vue.js, Angular, Jira
+
+#### Tech:
+
+- Kubernetes, Docker, Jenkins, Chef, Gatling
+
+#### Project Management:
+
+- Agile, Waterfall
 
 ## **Internship**
 
@@ -115,8 +140,13 @@ Conducted data exploration task using actual user log data and NLP algorithm Yah
 - Implemented a categorization model using disaster-related text data from Twitter
 - Gave presentations at conferences on research results related to user data utilization
 
-Programming Language: Python, Hiveql
-Skills: Machine Learning, Naive Bayes classifier, Random Forest, Natural Language Processing, exploratory data analysis
+#### Programming Language:
+
+- Python, Hiveql
+
+#### Skills:
+
+- Machine Learning, Naive Bayes classifier, Random Forest, Natural Language Processing, exploratory data analysis
 
 ## **Education**
 
