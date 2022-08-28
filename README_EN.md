@@ -14,8 +14,7 @@
 
 ## **Objective**
 
-I am Software Developer with 2.5 year's experience in E-Commerce industry.
-I am mainly involved in the back-end development of item's inventory management and order transfer, but also in the front-end and infrastructure areas. I am also well versed in operational tasks such as load test and parameter tuning of middleware such as Nginx, Kubernetes. In graduate school and undergraduate project, I was engaged in research on data mining using natural language processing for 3 years. I was selected as a JASSO scholarship recipient for exemption from repayment for my achievements during my studies, including external presentations at peer-reviewed international conferences. Currently, I would like to get an opportunity to work as a backend engineer to work on new product development.
+I am Software Developer with 2.5 years' experience in the E-Commerce industry. I am mainly involved in the back-end development of item inventory management and order transfer, but also in the front-end and infrastructure areas. I am also well versed in operational tasks such as load tests and parameter tuning of middleware such as Nginx, and Kubernetes. In graduate school, I was engaged in research on data mining using natural language processing. I was selected as a JASSO scholarship recipient for exemption from repayment for my achievements during my studies, including external presentations at peer-reviewed international conferences. Currently, I would like to get an opportunity to work as a backend engineer to work on new product development.
 
 ## **Hard Skills**
 
@@ -30,11 +29,11 @@ I am mainly involved in the back-end development of item's inventory management 
 
 ### Framework
 
-- **Apache Airflow** (6m): Used as workflow management system managed. Developed 5 dags to trasfer data from external API to internal DB.
+- **Apache Airflow** (6m): Used as workflow management system managed. Developed 5 dags to transfer data from external API to internal DB.
 - **Spring Boot** (2y): Used in the backend of a Home appliances EC site and in the backend of an in-house tool
 - **Nuxt.js,Vue.js** (2y): Frontend of Home appliances EC site
 - **Angular** (3m): Used in the backend of an internal tool
-- **Flask** (3m): Used for personal Linebot app creation
+- **Flask** (3m): Used for Linebot app creation as my side hussle
 - **Google App Script** (3m): Transfer order data with external API
 - **scikit-learn** (2y): Used as a machine learning library during research on natural language processing
 - **Keras** (1y): Used as a deep learning library in research on natural language processing
@@ -61,17 +60,14 @@ I am mainly involved in the back-end development of item's inventory management 
 
 Job Title: **Data Integration Engineer**
 
-As a member of the shop integration team, I worked on the development of an automated API integration system to expand the number of products to be displayed on buyma.com.
-I also developed an order placement and cancellation system using Google App Script to automatically integrate the order placement function with the boutique.
-The new products listed with the new function achieved sales of 10,000$ in 3 months.
-
-- Developed workflow to transfer item and order data with boutique's API with Apache Airflow.
+- Developed an automated API integration system to expand the number of products to be displayed on buyma.com.
+- Created an order placement and cancellation system using Google App Script
 - Created BI dashboard to check data transfer status with BigQuery and Looker.
 - Set up GCP components with Terraform.
 - Upgraded Airflow and Cloud Composer Version up to 2.x from 1.x
 - Installed CI/CD pipeline with Cloud Build.
 - GCP Project migration to build scalable system.
-  Tech: Airflow(Cloud Composer), GCP, Terraform, BigQuery, Looker
+- Achieved sales of 10,000$ in the past 3 months by new listed items.
 
 #### Programming Language:
 
@@ -97,15 +93,14 @@ The new products listed with the new function achieved sales of 10,000$ in 3 mon
 
 Job Title: **Application Engineer**
 
-I worked as a software engineer for consumer electronics e-commerce services for two years. I was mainly responsible for the back-end of the site and batch development of product integration, and also performed tasks related to front-end development, CI/CD, and infrastructure areas.
-
-- Front-end and back-end development to add new functionality to the e-commerce site
-- Web Application development of the Internal API management system
-- Development of a batch system linking product specifications and manufacturer information(Spring batch, Template method pattern)
-- Modification of the backend of the shopping cart function and UI(SpringBoot, Vue.js, Nuxt.js)
-- Design and build redundant systems for load balancing, especially for time-sale
-- Preparation and execution of load tests for Large-scale sale events.
+- Developed Front-end and back-end to add new functionality to the e-commerce site
+- Impletented Web Application of the Internal API management system
+- Created a batch system linking product specifications and manufacturer information(Spring batch, Template method pattern)
+- Modified the backend of the shopping cart function and UI(SpringBoot, Vue.js, Nuxt.js)
+- Designed and built redundant systems for load balancing, especially for time-sale
+- Prepared and executed load tests for Large-scale sale events.
 - Inquiry and production failure response
+- Prepared and maintained CI/CD pipeline and infrastructure areas.
 - Achieved 85% code coverage rate for unit tests.
 - Attended in-house department hackathon, then created clone of Fashion EC site with Single Page Application(SPA), and got second place(2nd/9th).
 
@@ -133,8 +128,7 @@ I worked as a software engineer for consumer electronics e-commerce services for
 
 Job Title: **Research Intern**
 
-Conducted data exploration task using actual user log data and NLP algorithm Yahoo! JAPAN Research
-
+- Conducted data exploration task using actual user log data and NLP algorithm
 - Generated machine learning models to estimate user attributes using text data from Twitter
 - Analyzed user behavior and user interests using News Site App Users' browsing log data
 - Implemented a categorization model using disaster-related text data from Twitter
@@ -165,7 +159,7 @@ Conducted data exploration task using actual user log data and NLP algorithm Yah
 
 ## Qualifications
 
-- [Google Cloud Associate Cloud Engineer](https://www.credential.net/f0e91b5b-37a6-4257-b6cb-d983a8458e65?key=4bdeaa38e98b672109444214a4665b1a3d32836eceaefe2c1eb0969d8129a188) 2022/07
+- [Google Cloud Certified Associate Cloud Engineer](https://www.credential.net/f0e91b5b-37a6-4257-b6cb-d983a8458e65?key=4bdeaa38e98b672109444214a4665b1a3d32836eceaefe2c1eb0969d8129a188) 2022/07
 - Fundamental Information Technology Engineer Examination（基本情報技術者試験）2021/03
 - Applied Information Technology Engineer Examination（応用情報技術者試験）2021/12
 
