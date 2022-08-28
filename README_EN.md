@@ -2,7 +2,7 @@
 
 ## **Basic Information**
 
-※ Last Update: 2022/08/24
+※ Last Update: 2022/08/28
 |key|value|
 |---|-----|
 |**Name**|Kota Kawaguchi (川口輝太)|
@@ -34,7 +34,7 @@ I am mainly involved in the back-end development of item's inventory management 
 
 ### Programming language
 
-- **Python** (3.5y): Developed DAG with Airflow, and Used for research in natural language processing
+- **Python** (5y): Developed DAG with Airflow, and Used for research in natural language processing
 - **Java** (2y): Used in the backend of a Home appliances EC site and in the backend of an in-house tool
 - **Javascript** (2y): Used in front-end of a Home appliances EC site
 - **Typescript** (3m): Used in the front-end of internal system
@@ -47,7 +47,7 @@ I am mainly involved in the back-end development of item's inventory management 
 - **Spring Boot** (2y): Used in the backend of a Home appliances EC site and in the backend of an in-house tool
 - **Nuxt.js,Vue.js** (2y): Frontend of Home appliances EC site
 - **Angular** (3m): Used in the backend of an internal tool
-- **Flask** (1m): Used for personal Linebot app creation
+- **Flask** (3m): Used for personal Linebot app creation
 - **Google App Script** (3m): Transfer order data with external API
 - **scikit-learn** (2y): Used as a machine learning library during research on natural language processing
 - **Keras** (1y): Used as a deep learning library in research on natural language processing
@@ -67,85 +67,42 @@ I am mainly involved in the back-end development of item's inventory management 
 
 Job Title: Data Integration Engineer
 
-Development and operation of the new boutique's data transfer system.
+As a member of the shop integration team, I worked on the development of an automated API integration system to expand the number of products to be displayed on buyma.com.
+I also developed an order placement and cancellation system using Google App Script to automatically integrate the order placement function with the boutique.
+The new products listed with the new function achieved sales of 10,000$ in 3 months.
 
 - Developed workflow to transfer item and order data with boutique's API with Apache Airflow.
-- Created BI dashboard to check data transfer status with BigQuery and Looker
+- Created BI dashboard to check data transfer status with BigQuery and Looker.
 - Set up GCP components with Terraform.
 - Upgraded Airflow and Cloud Composer Version up to 2.x from 1.x
-- Installed CI/CD pipeline with Cloud Build
-- GCP Project migration to build scalable system
+- Installed CI/CD pipeline with Cloud Build.
+- GCP Project migration to build scalable system.
   Tech: Airflow(Cloud Composer), GCP, Terraform, BigQuery, Looker
 
-Tech: Airflow(Cloud Composer), GCP, Terraform, BigQuery, Looker
+Programming Language: Python, Javascript
+Framework: Airflow(Cloud Composer)
+Tech: Kubernetes, Docker, Terraform, Google App Script
+Cloud Computing: Google Cloud Platform(Cloud Composer, BigQuery, Looker, GCS, IAM, Cloud Network, Looker)
 
 ### 2020/04 - 2022/02 : **Rakuten Group, Inc**
 
 Job Title: Application Engineer
-As a Web Application Engineer, I am engaged in the maintenance and operation of a consumer electronics e-commerce site, as well as development projects associated with the development of the service.
 
-#### **Development Project**
+I worked as a software engineer for consumer electronics e-commerce services for two years. I was mainly responsible for the back-end of the site and batch development of product integration, and also performed tasks related to front-end development, CICD, and infrastructure areas.
 
-##### New Web Application development of the Internal API management system(2020/05 - 2020/06)
+- Front-end and back-end development to add new functionality to the e-commerce site
+- Web Application development of the Internal API management system
+- Development of a batch system linking product specifications and manufacturer information(Spring batch, Template method pattern)
+- Modification of the backend of the shopping cart function and UI(SpringBoot, Vue.js, Nuxt.js)
+- Design and build redundant systems for load balancing, especially for time-sale
+- Preparation and execution of load tests for Large-scale sale events.
+- Inquiry and production failure response
+- Achieved 85% code coverage rate for unit tests.
+- Attended in-house department hackathon, then created clone of Fashion EC site with Single Page Application(SPA), and got second place(2nd/9th).
 
-- Development environment construction(Docker)
-- New API design / Development (Thymeleaf, Springboot)
-- Implementation and unit testing (Junit)
-
-##### Modification of the front-end part of the internal system(2020/07 - 2020/09)
-
-- Screen Design
-- Implementation and unit testing (Angular9)
-- Integration Test / Production release work
-
-##### Modification of the backend of the cash register screen and payment processing part(2020/10 - 2020/11)
-
-- Development (API), fixed model parameter and unit testing (Springboot)
-- Internal testing, external integration testing
-- Phases: development and unit testing, internal testing, external coupling testing (joint testing with other companies), production release
-
-##### Development of new abstract Batch class and csv file import batch (2020/12 - 2020/03)
-
-- Impact survey, basic design, detail design
-- Development Abstract class for Batch development and Batch development (Spring batch, Template method pattern)
-- Phases: design, development and unit testing, internal testing, external coupling testing (joint testing with other companies), production release
-
-##### Modification of product data trasfer batch (2021/04 - 2021/06)
-
-- Modification of the logic of the product data collaboration file import batch
-- Phases: design, development and unit testing, internal testing, external coupling testing (joint testing with other companies), production release
-- Communicated with Biccamera team members to achieve common goal.
-
-##### Addition of double price display logic in the product detail page (2021/07 - 2021/08)
-
-- Modification of the product detail page, backend development of the internal API call part
-- Phases: Design, development and unit testing, internal testing, external coupling testing (joint testing with other companies), production release
-
-##### Creation of new web application and fix web Nginx server's parameters for timesale events (2021/07 - 2021/08)
-
-- To achieve system's sustainability even in the hign load at timesale, created new application for load balancing.
-  - Implement Nginx reload Shell / Prepare Jenkins pipeline for Production deploy
-  - Parameter settings of Chef
-  - NFS setting
-  - New Web application Design, implementation to handle request to sale item.(k8s, Nuxt.js)
-
-#### **Operation Task(Annual)**
-
-- Preparation and execution of load tests.
-  - Conducted load tests for the Rakuten Super Sale, the largest shopping event held every quarter.
-  - Monitored the operation status by applying high QPS load.
-- Periodic maintenance work
-  - Paused and restarted batches, shifted production servers to maintenance mode, etc.
-- EOL support for internal APIs, upgrade work
-- Improvement and deployment of existing bugs.
-- Did operation of NFS settings, ACL serttings and FTP file transfer setting.
-- Production trouble shooting
-
-#### Others
-
-- In-house department hackathon second place: (2nd/9th)
-  - Tech Stack: Vue.js
-  - Title: Improve UI/UX on RFashion Search Page
+Programming Language: Java, Javascript, Typescript, Python, Go
+Framework: SpringBoot, Thymeleaf, JUnit, Nuxt.js, Vue.js, Angular
+Tech: Kubernetes, Docker, Jenkins, Chef, Gatling
 
 ## **Internship**
 
@@ -153,10 +110,16 @@ As a Web Application Engineer, I am engaged in the maintenance and operation of 
 
 #### Department: **Yahoo! JAPAN R&D**
 
-- Analysis of user behavior of news site viewers using user's real data
-  - Research Achevement: https://www.jstage.jst.go.jp/article/pjsai/JSAI2019/0/JSAI2019_3Rin236/_article/-char/ja
-- User attribute estimation task using in-house Twitter data
-- Technology: python, hql (hive)
+Job Title: Research Intern
+
+Conducted data exploration task using actual user log data and NLP algorithm Yahoo! JAPAN Research
+
+- Generated machine learning models to estimate user attributes using text data from Twitter
+- Analyzed user behavior and user interests using News Site App Users' browsing log data
+- Implemented a categorization model using disaster-related text data from Twitter
+- Gave presentations at conferences on research results related to user data utilization
+
+Programming Language: Python, hiveql
 
 ## **Education**
 
@@ -188,7 +151,7 @@ As a Web Application Engineer, I am engaged in the maintenance and operation of 
 
 - Atcoder(Green)
   - [Link](https://atcoder.jp/users/kotakota1110)
-- Hackday in Department. Second prize: (2nd Prize/9 teams)
+- Hackathon in Department. Second prize: (2nd Prize/9 teams)
   - Tech Stack: Vue.js (SPA)
   - Title: Improve UI/UX on RFashion Search Page
 
