@@ -28,13 +28,6 @@ I am mainly involved in the back-end development of item's inventory management 
 - **Perl** (6m): Used for text processing during research in natural language processing and web mining.
 - **Shell** (3m): Used as reverse proxy of EC site, and did parameter tuning.
 
-## **Soft Skills**
-
-- Ability to take ownership and drive the project as a team.
-- Positivity to communicate smoothly with stakeholders inside and outside the team, regardless of nationality or language, and to work towards goals.
-- Fast input due to active study habits and familiarity with the CS foundation.
-- Exemplary discipline in meeting project deadlines.
-
 ### Framework
 
 - **Apache Airflow** (6m): Used as workflow management system managed. Developed 5 dags to trasfer data from external API to internal DB.
@@ -55,11 +48,18 @@ I am mainly involved in the back-end development of item's inventory management 
 - **Chef** (1y): Manage server settings of Nginx, etc.
 - **Oracle** (2y): Used as internal DB table.
 
+## **Soft Skills**
+
+- Ability to take ownership and drive the project as a team.
+- Positivity to communicate smoothly with stakeholders inside and outside the team, regardless of nationality or language, and to work towards goals.
+- Fast input due to active study habits and familiarity with the CS foundation.
+- Exemplary discipline in meeting project deadlines.
+
 ## **Work Experience**
 
 ### 2022/02 - Current : Enigmo Inc. Freelance
 
-Job Title: Data Integration Engineer
+Job Title: **Data Integration Engineer**
 
 As a member of the shop integration team, I worked on the development of an automated API integration system to expand the number of products to be displayed on buyma.com.
 I also developed an order placement and cancellation system using Google App Script to automatically integrate the order placement function with the boutique.
@@ -80,9 +80,9 @@ Cloud Computing: Google Cloud Platform(Cloud Composer, BigQuery, Looker, GCS, IA
 
 ### 2020/04 - 2022/02 : **Rakuten Group, Inc**
 
-Job Title: Application Engineer
+Job Title: **Application Engineer**
 
-I worked as a software engineer for consumer electronics e-commerce services for two years. I was mainly responsible for the back-end of the site and batch development of product integration, and also performed tasks related to front-end development, CICD, and infrastructure areas.
+I worked as a software engineer for consumer electronics e-commerce services for two years. I was mainly responsible for the back-end of the site and batch development of product integration, and also performed tasks related to front-end development, CI/CD, and infrastructure areas.
 
 - Front-end and back-end development to add new functionality to the e-commerce site
 - Web Application development of the Internal API management system
@@ -104,7 +104,7 @@ Tech: Kubernetes, Docker, Jenkins, Chef, Gatling
 
 #### Department: **Yahoo! JAPAN R&D**
 
-Job Title: Research Intern
+Job Title: **Research Intern**
 
 Conducted data exploration task using actual user log data and NLP algorithm Yahoo! JAPAN Research
 
