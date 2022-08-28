@@ -25,6 +25,7 @@ I am mainly involved in the back-end development of item's inventory management 
 
 ## **Strengths**
 
+- Engineering skills and 2 years and 5 months of work experience in front-end, infrastructure, dev-ops, and cloud computing, with a focus on back-end.
 - Ability to take ownership and drive the project as a team.
 - Ability to communicate smoothly with stakeholders inside and outside the team, regardless of nationality or language, and to work towards goals
 - Specialized skills in data analysis and natural language processing / Analytical skills for understanding user behavior
@@ -194,8 +195,3 @@ As a Web Application Engineer, I am engaged in the maintenance and operation of 
 ### Awards / Scholarships
 
 - [Repayment Exemption for Students with Excellent Grades -FY2020-, Japan Student Services Organization (JASSO) Type I (interest-free) scholarship (Half price Exemption of Scholarships](https://www.jasso.go.jp/shogakukin/taiyochu/gyosekimenjyo/index.html)
-  ![image](https://user-images.githubusercontent.com/25422441/103165140-4a401380-4857-11eb-907d-457b28af81c6.png)
-
-### Blogs
-
-- [Qiita](https://qiita.com/kotaaaa)
