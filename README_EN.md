@@ -6,7 +6,7 @@
 |key|value|
 |---|-----|
 |**Name**|Kota Kawaguchi (川口輝太)|
-|**Tech Blog**|[Gatsby blog](https://kotaaaa1110blogs.gatsbyjs.io/)|
+|**Tech Blog**|[Gatsby blog](https://kk1110.netlify.app)|
 |**Twitter**|[@kotaaaa1110](https://twitter.com/kotaaaa1110)|
 |**Github**|[@kotaaaa](https://github.com/kotaaaa)|
 |**Research publication**|[Link](https://kk1110.com/rhp)|
